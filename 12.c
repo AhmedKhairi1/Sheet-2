@@ -26,7 +26,7 @@ int main()
     if (issymmetric) {
         printf("this matrix is symmetric");
     } else {
-        printf("This is matrix is not symmetric");
+        printf("This matrix is not symmetric");
     }
 
 }
